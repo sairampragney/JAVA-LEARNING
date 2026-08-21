@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="350" alt="Animated Coffee Cup">
+<img src="./assets/java-logo.gif" width="300" alt="Animated Java Logo">
 
 # JAVA-LEARNING ☕️
 
