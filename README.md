@@ -3,6 +3,15 @@
 <img src="./assets/java-coffee.gif" width="280" alt="Animated Java Coffee Cup">
 
 # JAVA-LEARNING ☕️
+<div align="center">
+
+<img src="./assets/java-coffee.gif" width="350" alt="Animated Java Coffee Cup">
+
+# JAVA-LEARNING ☕️
+
+### Java Learning & Practice Repository
+
+</div>
 
 ### Java Learning & Practice Repository
 
