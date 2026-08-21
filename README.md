@@ -2,11 +2,9 @@
 
 # ☕ JAVA-LEARNING
 
-### Learning Java • Practicing Java • Building Consistency
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="180"/>
 
-<img src="https://img.shields.io/badge/Language-Java-orange?style=for-the-badge&logo=openjdk&logoColor=white" />
-<img src="https://img.shields.io/badge/Focus-Java%20Programming-red?style=for-the-badge&logo=java&logoColor=white" />
-<img src="https://img.shields.io/badge/Status-Learning-yellow?style=for-the-badge" />
+### Java Learning & Practice Repository
 
 </div>
 
@@ -14,80 +12,65 @@
 
 ## 📖 About This Repository
 
-This repository contains my **Java learning and practice programs**.
+This repository contains my **Java learning and practice programs** as I learn Java through YouTube tutorials.
 
-I am learning Java through **YouTube tutorials**. While following each topic, I practice the programs and examples taught in the videos and solve the **homework problems provided for that topic**.
-
-I push my solutions to this repository regularly so that I can track my progress and build a collection of Java programs throughout my learning journey.
+While learning each topic, I practice the programs and examples taught in the videos and solve the **homework problems provided for each topic**. I regularly push my solutions to this repository to track my learning progress and build a collection of Java programs.
 
 ---
 
-## 🧠 Learning Approach
+## 📚 What This Repository Contains
 
-```text
-Learn a Topic
-      ↓
-Practice the Examples
-      ↓
-Solve Homework Problems
-      ↓
-Push Solutions to GitHub
-      ↓
-Revise & Improve
-```
+The repository is organized by Java concepts, with separate folders for each topic.
 
----
+Examples include:
 
-## 📚 Topics
-
-The repository is organized into separate folders based on the Java concepts I learn.
-
-| Topic                | Status      |
-| -------------------- | ----------- |
-| 🖨️ Print Statements | 🟢 Learning |
-| ⌨️ Input Statements  | 🟢 Learning |
-| 📦 Variables         | 🟢 Learning |
-| 🔢 Data Types        | 🔜 Upcoming |
-| 🔀 If-Else           | 🔜 Upcoming |
-| 🔘 Switch-Case       | 🔜 Upcoming |
-| 🔁 Loops             | 🔜 Upcoming |
-| 📊 Arrays            | 🔜 Upcoming |
-| 🔤 Strings           | 🔜 Upcoming |
-| ⚙️ Methods           | 🔜 Upcoming |
-| 🧩 OOP               | 🔜 Upcoming |
-| 🧠 DSA               | 🔜 Upcoming |
+* Print Statements
+* Input Statements
+* Variables
+* Data Types
+* If-Else Statements
+* Switch-Case
+* Loops
+* Arrays
+* Strings
+* Methods
+* Object-Oriented Programming
+* And more as I continue learning Java
 
 ---
 
-## 💻 Java
+## 🎯 Learning Approach
 
-<div align="center">
+My learning process is:
 
-<img src="https://skillicons.dev/icons?i=java" width="100"/>
+**Learn → Practice Examples → Solve Homework Problems → Push to GitHub**
 
-</div>
-
-Java is my **primary programming language**, and this repository is where I am building my foundation before moving deeper into **Object-Oriented Programming, DSA, and larger projects**.
+The goal is to understand Java concepts through consistent hands-on practice rather than only watching tutorials.
 
 ---
 
-## 🎯 Purpose
+## 🚀 Purpose
 
-This repository helps me:
+This repository serves as:
 
-* Build a strong foundation in Java
-* Practice programming consistently
-* Keep track of problems I have solved
-* Revise concepts through working code
-* Document my learning journey
-* Prepare for DSA and future software development projects
+* A record of my Java learning journey
+* A collection of programs and solved problems
+* A reference for revising Java concepts
+* A way to track my progress over time
+* A foundation for future projects and DSA practice
+
+---
+
+## 🛠️ Language
+
+**Java**
+
+I will continue updating this repository as I learn new Java concepts and solve more problems.
 
 ---
 
 <div align="center">
 
-### ☕ Learn → Code → Practice → Commit → Repeat
-
-**Building my Java foundation one program at a time.**
+### ☕ Keep Learning. Keep Coding. Keep Building.
 
 </div>
