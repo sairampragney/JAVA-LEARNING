@@ -1,10 +1,12 @@
 <div align="center">
 
-<img src="./assets/java-logo.png" width="280" alt="Java Logo">
+# ☕ JAVA-LEARNING
 
-# JAVA-LEARNING ☕️
+### Learning Java • Practicing Java • Building Consistency
 
-### Java Learning & Practice Repository
+<img src="https://img.shields.io/badge/Language-Java-orange?style=for-the-badge&logo=openjdk&logoColor=white" />
+<img src="https://img.shields.io/badge/Focus-Java%20Programming-red?style=for-the-badge&logo=java&logoColor=white" />
+<img src="https://img.shields.io/badge/Status-Learning-yellow?style=for-the-badge" />
 
 </div>
 
@@ -12,65 +14,80 @@
 
 ## 📖 About This Repository
 
-This repository contains my **Java learning and practice programs** as I learn Java through YouTube tutorials.
+This repository contains my **Java learning and practice programs**.
 
-While learning each topic, I practice the programs and examples taught in the videos and solve the **homework problems provided for each topic**. I regularly push my solutions to this repository to track my learning progress and build a collection of Java programs.
+I am learning Java through **YouTube tutorials**. While following each topic, I practice the programs and examples taught in the videos and solve the **homework problems provided for that topic**.
 
----
-
-## 📚 What This Repository Contains
-
-The repository is organized by Java concepts, with separate folders for each topic.
-
-Examples include:
-
-* Print Statements
-* Input Statements
-* Variables
-* Data Types
-* If-Else Statements
-* Switch-Case
-* Loops
-* Arrays
-* Strings
-* Methods
-* Object-Oriented Programming
-* And more as I continue learning Java
+I push my solutions to this repository regularly so that I can track my progress and build a collection of Java programs throughout my learning journey.
 
 ---
 
-## 🎯 Learning Approach
+## 🧠 Learning Approach
 
-My learning process is:
-
-**Learn → Practice Examples → Solve Homework Problems → Push to GitHub**
-
-The goal is to understand Java concepts through consistent hands-on practice rather than only watching tutorials.
-
----
-
-## 🚀 Purpose
-
-This repository serves as:
-
-* A record of my Java learning journey
-* A collection of programs and solved problems
-* A reference for revising Java concepts
-* A way to track my progress over time
-* A foundation for future projects and DSA practice
+```text
+Learn a Topic
+      ↓
+Practice the Examples
+      ↓
+Solve Homework Problems
+      ↓
+Push Solutions to GitHub
+      ↓
+Revise & Improve
+```
 
 ---
 
-## 🛠️ Language
+## 📚 Topics
 
-**Java**
+The repository is organized into separate folders based on the Java concepts I learn.
 
-I will continue updating this repository as I learn new Java concepts and solve more problems.
+| Topic                | Status      |
+| -------------------- | ----------- |
+| 🖨️ Print Statements | 🟢 Learning |
+| ⌨️ Input Statements  | 🟢 Learning |
+| 📦 Variables         | 🟢 Learning |
+| 🔢 Data Types        | 🔜 Upcoming |
+| 🔀 If-Else           | 🔜 Upcoming |
+| 🔘 Switch-Case       | 🔜 Upcoming |
+| 🔁 Loops             | 🔜 Upcoming |
+| 📊 Arrays            | 🔜 Upcoming |
+| 🔤 Strings           | 🔜 Upcoming |
+| ⚙️ Methods           | 🔜 Upcoming |
+| 🧩 OOP               | 🔜 Upcoming |
+| 🧠 DSA               | 🔜 Upcoming |
+
+---
+
+## 💻 Java
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=java" width="100"/>
+
+</div>
+
+Java is my **primary programming language**, and this repository is where I am building my foundation before moving deeper into **Object-Oriented Programming, DSA, and larger projects**.
+
+---
+
+## 🎯 Purpose
+
+This repository helps me:
+
+* Build a strong foundation in Java
+* Practice programming consistently
+* Keep track of problems I have solved
+* Revise concepts through working code
+* Document my learning journey
+* Prepare for DSA and future software development projects
 
 ---
 
 <div align="center">
 
-### ☕ Keep Learning. Keep Coding. Keep Building.
+### ☕ Learn → Code → Practice → Commit → Repeat
+
+**Building my Java foundation one program at a time.**
 
 </div>
