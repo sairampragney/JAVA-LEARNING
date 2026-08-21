@@ -1,8 +1,8 @@
 <div align="center">
 
-# ☕ JAVA-LEARNING
+<img src="./assets/java-coffee.gif" width="280" alt="Animated Java Coffee Cup">
 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="180"/>
+# JAVA-LEARNING ☕️
 
 ### Java Learning & Practice Repository
 
