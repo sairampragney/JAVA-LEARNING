@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/java-logo.gif" width="300" alt="Animated Java Logo">
+<img src="./assets/java-logo.png" width="280" alt="Java Logo">
 
 # JAVA-LEARNING ☕️
 
@@ -24,18 +24,18 @@ The repository is organized by Java concepts, with separate folders for each top
 
 Examples include:
 
-- Print Statements
-- Input Statements
-- Variables
-- Data Types
-- If-Else Statements
-- Switch-Case
-- Loops
-- Arrays
-- Strings
-- Methods
-- Object-Oriented Programming
-- And more as I continue learning Java
+* Print Statements
+* Input Statements
+* Variables
+* Data Types
+* If-Else Statements
+* Switch-Case
+* Loops
+* Arrays
+* Strings
+* Methods
+* Object-Oriented Programming
+* And more as I continue learning Java
 
 ---
 
@@ -53,11 +53,11 @@ The goal is to understand Java concepts through consistent hands-on practice rat
 
 This repository serves as:
 
-- A record of my Java learning journey
-- A collection of programs and solved problems
-- A reference for revising Java concepts
-- A way to track my progress over time
-- A foundation for future projects and DSA practice
+* A record of my Java learning journey
+* A collection of programs and solved problems
+* A reference for revising Java concepts
+* A way to track my progress over time
+* A foundation for future projects and DSA practice
 
 ---
 
