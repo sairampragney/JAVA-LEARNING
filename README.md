@@ -1,17 +1,8 @@
 <div align="center">
 
-<img src="./assets/java-coffee.gif" width="280" alt="Animated Java Coffee Cup">
+<img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="350" alt="Animated Coffee Cup">
 
 # JAVA-LEARNING ☕️
-<div align="center">
-
-<img src="./assets/java-coffee.gif" width="350" alt="Animated Java Coffee Cup">
-
-# JAVA-LEARNING ☕️
-
-### Java Learning & Practice Repository
-
-</div>
 
 ### Java Learning & Practice Repository
 
@@ -33,18 +24,18 @@ The repository is organized by Java concepts, with separate folders for each top
 
 Examples include:
 
-* Print Statements
-* Input Statements
-* Variables
-* Data Types
-* If-Else Statements
-* Switch-Case
-* Loops
-* Arrays
-* Strings
-* Methods
-* Object-Oriented Programming
-* And more as I continue learning Java
+- Print Statements
+- Input Statements
+- Variables
+- Data Types
+- If-Else Statements
+- Switch-Case
+- Loops
+- Arrays
+- Strings
+- Methods
+- Object-Oriented Programming
+- And more as I continue learning Java
 
 ---
 
@@ -62,11 +53,11 @@ The goal is to understand Java concepts through consistent hands-on practice rat
 
 This repository serves as:
 
-* A record of my Java learning journey
-* A collection of programs and solved problems
-* A reference for revising Java concepts
-* A way to track my progress over time
-* A foundation for future projects and DSA practice
+- A record of my Java learning journey
+- A collection of programs and solved problems
+- A reference for revising Java concepts
+- A way to track my progress over time
+- A foundation for future projects and DSA practice
 
 ---
 
