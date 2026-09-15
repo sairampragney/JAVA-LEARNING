@@ -20,6 +20,7 @@ int x = sc.nextInt();****
 ```
 
 ### EXAMPLE OUTPUT IF x IS 5
+```text
 0 x 5 = 0
 1 x 5 = 5
 2 x 5 = 10
