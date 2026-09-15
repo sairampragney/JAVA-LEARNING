@@ -6,7 +6,7 @@ import java.util.Scanner;
       Scanner sc = new Scanner(System.in);
       int x = sc.nextInt();
       for(int i = 0; i <= 10; i++ ) {
-        System.out.println(i + " x " + x + " = " + i * x);
+        System.out.println(i + " " + " x " + x + " = " + " " + i * x);
       }
     }
   }
