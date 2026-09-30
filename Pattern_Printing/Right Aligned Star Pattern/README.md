@@ -17,10 +17,12 @@ For each row:
 ```text
 4
 Output
+
    *
   **
  ***
 ****
+
 ⚙️ How It Works
 
 The program uses nested for loops to create the pattern.
